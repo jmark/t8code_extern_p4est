@@ -1,0 +1,10 @@
+[[t8code_extern_p4est]]
+arch = "x86_64"
+git-tree-sha1 = "251c72ebd984ef07bbaeaccd171ded4cc110dd53"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[t8code_extern_p4est.download]]
+    sha256 = "703e7e81a9e325c9e4df8d0b96feaeb5af9731575a5c1f3f2264ee41ade6e2f6"
+    url = "https://github.com/jmark/t8code_extern_p4est/releases/download/t8code_extern_p4est-v1.1.2+0/t8code_extern_p4est.v1.1.2.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
